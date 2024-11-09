@@ -1,4 +1,4 @@
-<h1 align="center"> Game</h1>
+<h1 align="center"> Roll a Dice</h1>
 
 
 
