@@ -1,6 +1,6 @@
-<h1 align="center">Roll-Dice Game</h1>
+<h1 align="center"> Game</h1>
 
-<h2 align="center"><a href="https://nipulsingal.github.io/Roll-Dice-Game">Play Game</a></h2>
+
 
 ## Game Rules -
 
