@@ -2,7 +2,7 @@
 
 
 
-## Game Rules -
+## Game Rules 
 
 This is a two-player game played in rounds.
 
