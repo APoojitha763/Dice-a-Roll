@@ -1,19 +1,6 @@
 <h1 align="center">Roll-Dice Game</h1>
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/made%20by-NipulSingal-blue.svg" >
-
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
-
-<img src="https://img.shields.io/github/stars/NipulSingal/Roll-Dice-Game.svg?style=flat">
-
-<img src="https://img.shields.io/github/languages/top/NipulSingal/Roll-Dice-Game.svg">
-
-<img src="https://img.shields.io/github/issues/NipulSingal/Roll-Dice-Game.svg">
-
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-</p>
 
 <img src="./RollDice.PNG" width="100%">
 
