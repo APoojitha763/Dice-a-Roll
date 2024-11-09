@@ -4,16 +4,10 @@
 
 ## Game Rules -
 
-1. The game has 2 players,playing in rounds
+This is a two-player game played in rounds.
 
-2. In each turn, a player rolls a dice as many times as he wishes. Each result get added to his ROUND score
+Each player takes turns rolling a dice as many times as they wish. Each roll's result adds to their round score. However, if a player rolls a 1, their round score resets to zero, and it becomes the other player's turn.
 
-3. BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
+Players can also choose to hold, which means they add their round score to their global score and then pass the turn to the other player.
 
-4. The player can choose to 'HOLD', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
-
-5. The first player who reaches 100 points on GLOBAL score wins the game.
-
-Visit the link and enjoy my game.
-
-> Copyright to NipulSingal.
+The first player to reach 100 points in their global score wins the game.
