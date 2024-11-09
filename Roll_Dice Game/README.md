@@ -1,9 +1,5 @@
 <h1 align="center">Roll-Dice Game</h1>
 
-
-
-<img src="./RollDice.PNG" width="100%">
-
 <h2 align="center"><a href="https://nipulsingal.github.io/Roll-Dice-Game">Play Game</a></h2>
 
 ## Game Rules -
